@@ -188,7 +188,7 @@ sr.reveal('.skills-designer, .contact-form' , {origin: 'right' });
 
 /*=============== typing animation ==============*/
 
-  const words = ["Web Designer", "UI/UX Designer"];
+  const words = ["Web Designer", "UI Designer"];
   let i = 0;
   let j = 0;
   let currentWord = '';
